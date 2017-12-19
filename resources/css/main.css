@@ -1,0 +1,26 @@
+/*** created by epotapenko 
+------------------------------------------------------/
+	This is the main styles file. 
+	It contains all imported .css files of the project.
+	Customize it for yourself. 
+------------------------------------------------------*/
+
+
+
+/*** 
+	main.css
+********************/
+
+@import "grid.css";
+@import "vars.css";
+@import "/parts/custom-part.css";
+
+
+
+
+
+
+
+
+
+

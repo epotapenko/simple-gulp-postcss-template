@@ -1,0 +1,11 @@
+/*** created by epotapenko 
+---------------------------------------------------------/
+	There are custom file for your parts of the project.
+	This file is imported to main.css.
+	Customize it for yourself. 
+--------------------------------------------------------*/
+
+h1 {
+    padding: 2rem 1rem;
+	text-align: center;
+}

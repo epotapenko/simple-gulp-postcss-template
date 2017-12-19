@@ -1,0 +1,21 @@
+/*** created by epotapenko 
+------------------------------------------/
+	There are variables of the project.
+	This file is imported to main.css.
+	Customize it for yourself. 
+-----------------------------------------*/
+
+
+
+/***
+	variables (vars.css)
+**************************/
+
+:root {
+	/* Declare your variables ONLY IN ROOT. This format of variables is native for W3C 
+		See more here https://www.w3.org/TR/css-variables-1/ */
+	
+	--custom-content: 'Hello from CSS';
+	--custom-color: #2f22c5;
+	--custom-font-size: 1rem;
+}

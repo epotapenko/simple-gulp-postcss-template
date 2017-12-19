@@ -1,0 +1,53 @@
+/*** created by epotapenko 
+------------------------------------------/
+	There are grid styles of the project.
+	This file is imported to main.css.
+	Customize it for yourself. 
+-----------------------------------------*/
+
+
+
+/***
+	#grid
+******************/
+
+@charset "utf-8";
+
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 1rem;
+}
+
+html, 
+body {
+	margin: 0;
+	padding: 0;
+}
+
+html,
+body,
+.layout {
+	min-width: 320px;
+}
+
+.layout {
+	min-height: 100%;
+	height: auto;
+	overflow: hidden;
+}
+
+.container {
+	max-width: 1200px;
+	padding: 0 10px;
+	margin: 0 auto;
+}
+
+.layout,
+.container {
+	position: relative;
+}

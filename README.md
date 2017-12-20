@@ -3,8 +3,8 @@ The template gives you quick start to work with PostCSS. The template is based o
 
 Steps for workirking with the template:
 
-# clone repository
-# run npm install --SD
-# run gulp start
+- clone repository
+- run npm install --SD
+- run gulp start
 
 After gulp running, browsersync create new tab with the project in your default browser.
